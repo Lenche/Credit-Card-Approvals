@@ -12,5 +12,9 @@ We'll use the Credit Card Approval dataset from the UCI Machine Learning Reposit
 •Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.
 
 
+Acknowledgment
+This project was done with instructions and courses from Data Camp.
+
+
 
 
